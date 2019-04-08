@@ -2,3 +2,7 @@
 未解决：1.从Excel中读取编号和成绩出来的是日期形式
              2.未实现写入数据库
 已实现：发送、接收数据
+2019-4-8 9:00-11:00
+问题：Duplicate entry '1' for key 'PRIMARY'
+解决:主键重复
+       参考：https://blog.csdn.net/zhangyr_student/article/details/80119238
