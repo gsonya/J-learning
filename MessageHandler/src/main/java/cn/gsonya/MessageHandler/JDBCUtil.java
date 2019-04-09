@@ -9,7 +9,7 @@ public class JDBCUtil {
 		String driver="com.mysql.cj.jdbc.Driver";
 	    String url = "jdbc:mysql://localhost:3306/runoob?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT";
 		String username="root";
-		String password="19980107";
+		String password="123456";
 		Connection conn=null;
 			try {
 				Class.forName(driver);
