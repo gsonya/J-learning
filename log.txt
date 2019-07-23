@@ -1,0 +1,5 @@
+webstorm
+1、问题：npm install时出现-4080
+     解决：终止运行，重新npm install
+2、问题：npm install一直error，npm ERR! enoent This is related to npm not being able to find a file.
+     解决：用npm i代替npm install
