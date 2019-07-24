@@ -1,0 +1,2 @@
+1、target="_blank"表示点开链接时，另外的页面在新的窗口打开
+2、<div>中class属性与id的不同：http://www.divcss5.com/rumen/r3.shtml
