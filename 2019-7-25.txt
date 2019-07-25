@@ -1,0 +1,6 @@
+1、学习Element UI时修改.babelrc文件时出现问题
+      Couldn't find preset "es2015" relative
+      解决： npm install babel-preset-es2015 --save-dev
+2、问题：To install it, you can run: npm install --save !!v ue-style-loader!css-loade
+      解决：https://www.e-learn.cn/content/css/1963688
+      注：如果项目在运行中install后需要重新运行
